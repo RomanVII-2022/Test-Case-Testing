@@ -1,0 +1,11 @@
+2022-09-15 09:24:53,292 : DEBUG : test_addCustomer : 19 : ************* Test_003_AddCustomer **********
+2022-09-15 09:25:04,018 : DEBUG : test_addCustomer : 26 : ************* Login succesful **********
+2022-09-15 09:25:04,019 : DEBUG : test_addCustomer : 28 : ******* Starting Add Customer Test **********
+2022-09-15 09:25:08,871 : DEBUG : test_addCustomer : 36 : ************* Providing customer info **********
+2022-09-15 09:25:19,018 : DEBUG : test_addCustomer : 51 : ************* Saving customer info **********
+2022-09-15 09:25:19,018 : DEBUG : test_addCustomer : 53 : ********* Add customer validation started *****************
+2022-09-15 09:25:19,043 : DEBUG : test_addCustomer : 60 : ********* Add customer Test Passed *********
+2022-09-15 09:25:19,161 : DEBUG : test_addCustomer : 67 : ******* Ending Add customer test **********
+2022-09-15 09:25:21,016 : DEBUG : test_login : 16 : ****** Test_001_Login ******
+2022-09-15 09:25:21,016 : DEBUG : test_login : 17 : ****** Veryfing ******
+2022-09-15 09:25:30,592 : DEBUG : test_login : 24 : ****** Home page test passed ******
